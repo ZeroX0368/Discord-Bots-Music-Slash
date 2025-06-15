@@ -1,0 +1,8 @@
+youtube-sr
+sodium-native
+libsodium-wrappers
+ffmpeg-static
+discord.js
+@types/node
+@distube/ytdl-core
+@discordjs/voice
