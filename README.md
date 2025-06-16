@@ -2,4 +2,4 @@ run `node index.js`
 
 buid `npm install`
 # Preview
-![preview](https://cdn.discordapp.com/attachments/1335597135202353224/1384140198052630549/Screenshot_20250616-185850_Discord.jpg?ex=68515883&is=68500703&hm=c2ef63d640dda38cd9ddab34ea2c6ec6011f17446923080c271705b8550ce45e&)
+![preview](https://cdn.discordapp.com/attachments/1335597135202353224/1384140519398965288/20250616_185956.jpg?ex=685158cf&is=6850074f&hm=61c56388f079e73b08a70c647f2991f78b5a908120c29ac819811abfbbee2b6c&)
